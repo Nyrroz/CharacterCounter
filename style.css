@@ -3,7 +3,7 @@
 
 
 body {
-    background: dodgerblue linear-gradient(22deg, aqua, dodgerblue, deeppink) fixed;
+    background: dodgerblue linear-gradient(22deg, #002B5B, #1A5F7A, #57C5B6) fixed;
     color: white;
     font: normal 16px/1.6 system-ui, sans-serif;
 	text-shadow: 0 1px 1px hsl(0 0% 0% / 20%);
@@ -21,6 +21,7 @@ body {
 h1 {
     font: normal 48px/1.6 Chivo Mono, sans-serif;
 	font-weight: normal;
+
 
     display: flex;
     align-items: center;
