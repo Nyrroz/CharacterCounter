@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Chivo+Mono:ital,wght@1,800&family=Montserrat&family=Nunito+Sans:wght@600&display=swap');
+
+
+
+body {
+    background: dodgerblue linear-gradient(22deg, aqua, dodgerblue, deeppink) fixed;
+    color: white;
+    font: normal 16px/1.6 system-ui, sans-serif;
+	text-shadow: 0 1px 1px hsl(0 0% 0% / 20%);
+    margin: 2rem;
+}
+
+.container {
+    height: 525px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1 {
+    font: normal 48px/1.6 Chivo Mono, sans-serif;
+	font-weight: normal;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2 {
+    font: normal 34px/1.6 Chivo Mono, sans-serif;
+	font-weight: normal; 
+    margin-top: 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.checkboxContainer {
+    font: normal 24px/1.6 Nunito Sans, sans-serif;
+	font-weight: normal; 
+    margin-bottom: 3rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#checkbox {
+    height: 30px;
+    width: 30px;
+    margin-right: 1rem;
+}
+#checkbox2 {
+    height: 30px;
+    width: 30px;
+    margin-right: 1rem;
+    margin-left: 3rem;
+}
+
+/* .header1 {
+
+}
+
+.header2 {
+
+} */
+
+a {
+  color: inherit;
+}
+
+a:focus,
+a:hover {
+  text-decoration-color: black;
+}
+
+textarea {
+    font: inherit;
+    font: normal 16px/1.6 Monsserrat, sans-serif;
+    padding: 0.2em 0.5em;
+    border-radius: 6px;
+    resize: none;
+
+    height: 100%;
+    width: 100%;
+
+}
+
+footer {
+    margin-top: 4rem;
+}
