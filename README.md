@@ -1,2 +1,2 @@
 # Simple character counter made by Nyrroz
-https://github.com/Nyrroz/LoginSystem.git
+https://nyrroz.github.io/CharacterCounter/
